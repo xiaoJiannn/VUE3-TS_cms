@@ -1,0 +1,39 @@
+# Set default behavior to automatically detect output language
+*.rb linguist-language=Ruby
+
+# JavaScript
+*.js linguist-detectable=true
+*.jsx linguist-detectable=true
+*.vue linguist-detectable=true
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
+# CSS
+*.css linguist-detectable=true
+*.scss linguist-detectable=true
+
+# HTML
+*.html linguist-detectable=true
+
+# Shell
+*.sh linguist-detectable=true
+
+# JSON
+*.json linguist-detectable=true
+
+# Markdown
+*.md linguist-detectable=true
+*.markdown linguist-detectable=true
+
+# YAML
+*.yml linguist-detectable=true
+*.yaml linguist-detectable=true
+
+# Images
+*.png linguist-detectable=false
+*.jpeg linguist-detectable=false
+*.jpg linguist-detectable=false
+*.gif linguist-detectable=false
+
+# Binary files
+*.doc linguist-detectable=false
+*.pdf linguist-detectable=false
